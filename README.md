@@ -4,7 +4,7 @@ Fashion Product Recommendation System utilizes a combination of deep learning, n
 
 ### Deep Learning ###
 
-Model Architecture: The system employs pre-trained convolutional neural network (CNN) models such as DenseNet121 and VGG16 for image feature extraction.
+Model Architecture: The system employs pre-trained convolutional neural network (CNN) model such as VGG16 for image feature extraction.
 
 Feature Extraction: The last few layers of the CNN models are removed, and a GlobalMaxPooling2D layer is added to extract image embeddings, capturing high-level visual features from product images.
 
@@ -28,7 +28,7 @@ Recommendation System: Extracted image embeddings represent visual features of p
 
 ## Product Recommendations ##
 
-![productsRec](https://github.com/badrinarayanan02/CaseStudy-MultiModel/assets/139948861/5e435223-2879-45c1-85ec-93d69c486fea)
+![proRec](https://github.com/badrinarayanan02/CaseStudy-MultiModel/assets/139948861/0e677fcb-2f16-40c6-8709-7ed699bfb685)
 
 
 ### Conclusion ###
