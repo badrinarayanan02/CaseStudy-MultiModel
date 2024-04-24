@@ -1,6 +1,6 @@
-## Fashion Product Recommendation System ##
+# Fashion Product Recommendation System #
 
-Fashion Product Recommendation System that utilizes a combination of deep learning, natural language processing (NLP), and computer vision techniques. 
+Fashion Product Recommendation System utilizes a combination of deep learning, natural language processing (NLP), and computer vision techniques. 
 
 ### Deep Learning ###
 
@@ -26,7 +26,7 @@ Feature Extraction: Deep learning models like DenseNet121 and VGG16 extract mean
 
 Recommendation System: Extracted image embeddings represent visual features of products, enabling calculation of similarity scores between products and recommending visually similar items
 
-## Image Recommendation ##
+## Product Recommendations ##
 
 ![productsRec](https://github.com/badrinarayanan02/CaseStudy-MultiModel/assets/139948861/5e435223-2879-45c1-85ec-93d69c486fea)
 
